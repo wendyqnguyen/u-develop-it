@@ -1,2 +1,2 @@
-CREATE DATABASE business;
-USE business;
+CREATE DATABASE election;
+USE election;
